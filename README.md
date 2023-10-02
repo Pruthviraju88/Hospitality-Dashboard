@@ -22,13 +22,16 @@ Dashboard has been developed about the analysis of Airbnb hotels in which a deta
   # Dashborad Images
 
   - This is an interactive dashboard, you can download it from my repo,
+  - ![Screenshot 2023-10-03 010308](https://github.com/Pruthviraju88/Hospitality-Dashboard/assets/72451060/9078138a-ad63-4a50-bf6a-ca9e0dba7893)
+
 - Level 1 & 2
 ![Screenshot 2023-07-13 002406](https://github.com/codev-8/Hospitality-Dashboard/assets/72451060/a53e57d9-7e44-42fb-afec-f2e07d3c92aa)
-![Screenshot 2023-07-13 002426](https://github.com/codev-8/Hospitality-Dashboard/assets/72451060/23c9e9bd-6ce8-4bf1-9c70-f27a115383c4)
-![Screenshot 2023-07-13 002521](https://github.com/codev-8/Hospitality-Dashboard/assets/72451060/2625c759-e51a-4019-95f6-42a03911c8e7)
+![image](https://github.com/Pruthviraju88/Hospitality-Dashboard/assets/72451060/8a448833-2778-4f90-a74c-bafaddedd561)
+
 
 - Level 3 & 4 
-![Screenshot 2023-07-13 002627](https://github.com/codev-8/Hospitality-Dashboard/assets/72451060/9fe5cc2a-6d8a-42a3-8eed-1e66f2892da9)
+![image](https://github.com/Pruthviraju88/Hospitality-Dashboard/assets/72451060/9a8d79e2-23d4-4d2e-a32e-8f3ee3b007e7)
+
 
 ![Screenshot 2023-07-13 002652](https://github.com/codev-8/Hospitality-Dashboard/assets/72451060/ed41acfe-0199-49c1-8ae5-5edc7fc5c678)
 
