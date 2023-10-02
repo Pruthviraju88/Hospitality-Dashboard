@@ -26,7 +26,7 @@ Dashboard has been developed about the analysis of Airbnb hotels in which a deta
 
 - Level 1 & 2
 ![Screenshot 2023-07-13 002406](https://github.com/codev-8/Hospitality-Dashboard/assets/72451060/a53e57d9-7e44-42fb-afec-f2e07d3c92aa)
-![image](https://github.com/Pruthviraju88/Hospitality-Dashboard/assets/72451060/8a448833-2778-4f90-a74c-bafaddedd561)
+
 
 
 - Level 3 & 4 
